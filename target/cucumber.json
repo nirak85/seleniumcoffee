@@ -1,0 +1,808 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-06-14T15:57:18.157Z",
+        "line": 4,
+        "name": "Valid user should be able to fill the practice form",
+        "description": "",
+        "id": "user-need-to-fill-the-practice-form;valid-user-should-be-able-to-fill-the-practice-form",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8544000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User should be able to fill the form as a valid user",
+            "match": {
+              "location": "StepDefn.PracticeSteps.user_should_be_able_to_fill_the_form_as_a_valid_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 260000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User entered Firstname \"Leticia\" Lastname \"Martins\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Leticia\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Martins\"",
+                  "offset": 42
+                }
+              ],
+              "location": "StepDefn.PracticeSteps.user_entered_firstname_as_lastname_as(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 563000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User complete all the text field and enterd date \"06-04-2021\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"06-04-2021\"",
+                  "offset": 49
+                }
+              ],
+              "location": "StepDefn.PracticeSteps.user_complete_all_the_text_field_and_enterd_date_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be in next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps.user_should_be_in_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-14T15:57:27.819Z",
+        "line": 11,
+        "name": "Valid user should be able to fill the practice form",
+        "description": "",
+        "id": "user-need-to-fill-the-practice-form;valid-user-should-be-able-to-fill-the-practice-form",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14856000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User should be able to fill the form as a valid user",
+            "match": {
+              "location": "StepDefn.PracticeSteps.user_should_be_able_to_fill_the_form_as_a_valid_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 255000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User entered Firstname \"Mathew\" Lastname \"Gartham\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Mathew\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Gartham\"",
+                  "offset": 41
+                }
+              ],
+              "location": "StepDefn.PracticeSteps.user_entered_firstname_as_lastname_as(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 455000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User complete all the text field and enterd date \"04-04-2021\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"04-04-2021\"",
+                  "offset": 49
+                }
+              ],
+              "location": "StepDefn.PracticeSteps.user_complete_all_the_text_field_and_enterd_date_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User should be in next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps.user_should_be_in_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-14T15:57:43.396Z",
+        "line": 18,
+        "name": "Valid user should be able to fill the practice form",
+        "description": "",
+        "id": "user-need-to-fill-the-practice-form;valid-user-should-be-able-to-fill-the-practice-form",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12083000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User should be able to fill the form as a valid user",
+            "match": {
+              "location": "StepDefn.PracticeSteps.user_should_be_able_to_fill_the_form_as_a_valid_user()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 266000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User entered Firstname \"Leo\" Lastname \"Wilson\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Leo\"",
+                  "offset": 23
+                },
+                {
+                  "val": "\"Wilson\"",
+                  "offset": 38
+                }
+              ],
+              "location": "StepDefn.PracticeSteps.user_entered_firstname_as_lastname_as(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 481000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User complete all the text field and enterd date \"06-22-2021\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"06-22-2021\"",
+                  "offset": 49
+                }
+              ],
+              "location": "StepDefn.PracticeSteps.user_complete_all_the_text_field_and_enterd_date_as(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User should be in next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps.user_should_be_in_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "user need to fill the practice form",
+    "description": "",
+    "id": "user-need-to-fill-the-practice-form",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Features/Practice.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-06-14T15:57:56.236Z",
+        "line": 14,
+        "name": "user should  able to go to next page;",
+        "description": "",
+        "id": "user-should-be-able-to-login-tutorial-site;user-should--able-to-go-to-next-page;;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16379000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User wants to go to login site",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_wants_to_go_to_login_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1190000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enter \"john\" and \"smith\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"john\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"smith\"",
+                  "offset": 22
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.user_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 651000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "fill up all the credential and pass \"04/05/2021\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"04/05/2021\"",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.fill_up_all_the_credential_and_pass(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7372000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "fill up other forms",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.fill_up_other_forms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 133000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user should able to go next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_should_able_to_go_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-14T15:58:22.012Z",
+        "line": 15,
+        "name": "user should  able to go to next page;",
+        "description": "",
+        "id": "user-should-be-able-to-login-tutorial-site;user-should--able-to-go-to-next-page;;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10855000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User wants to go to login site",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_wants_to_go_to_login_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 283000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enter \"niraj\" and \"shakya\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"niraj\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"shakya\"",
+                  "offset": 23
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.user_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 249000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "fill up all the credential and pass \"08/11/1999\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"08/11/1999\"",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.fill_up_all_the_credential_and_pass(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 704000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "fill up other forms",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.fill_up_other_forms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 70000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user should able to go next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_should_able_to_go_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-14T15:58:34.203Z",
+        "line": 27,
+        "name": "user should  able to go to next page;",
+        "description": "",
+        "id": "user-should-be-able-to-login-tutorial-site;user-should--able-to-go-to-next-page;;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4860000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User wants to go to login site",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_wants_to_go_to_login_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 318000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user enter \"john\" and \"smith\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"john\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"smith\"",
+                  "offset": 22
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.user_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 282000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "fill up all the credential and pass \"04/05/2021\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"04/05/2021\"",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.fill_up_all_the_credential_and_pass(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2374000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "fill up other forms",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.fill_up_other_forms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3492000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user should able to go next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_should_able_to_go_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-14T15:58:45.545Z",
+        "line": 28,
+        "name": "user should  able to go to next page;",
+        "description": "",
+        "id": "user-should-be-able-to-login-tutorial-site;user-should--able-to-go-to-next-page;;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14997000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User wants to go to login site",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_wants_to_go_to_login_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 288000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user enter \"niraj\" and \"shakya\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"niraj\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"shakya\"",
+                  "offset": 23
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.user_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 273000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "fill up all the credential and pass \"08/11/1999\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"08/11/1999\"",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.fill_up_all_the_credential_and_pass(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2517000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "fill up other forms",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.fill_up_other_forms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4350000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user should able to go next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_should_able_to_go_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-14T15:59:08.019Z",
+        "line": 40,
+        "name": "user should  able to go to next page;",
+        "description": "",
+        "id": "user-should-be-able-to-login-tutorial-site;user-should--able-to-go-to-next-page;;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 24698000000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User wants to go to login site",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_wants_to_go_to_login_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 439000000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user enter \"john\" and \"smith\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"john\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"smith\"",
+                  "offset": 22
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.user_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13810000000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "fill up all the credential and pass \"04/05/2021\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"04/05/2021\"",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.fill_up_all_the_credential_and_pass(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6119000000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "fill up other forms",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.fill_up_other_forms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 287000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user should able to go next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_should_able_to_go_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-14T15:59:53.434Z",
+        "line": 41,
+        "name": "user should  able to go to next page;",
+        "description": "",
+        "id": "user-should-be-able-to-login-tutorial-site;user-should--able-to-go-to-next-page;;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7607000000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User wants to go to login site",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_wants_to_go_to_login_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1009000000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user enter \"niraj\" and \"shakya\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"niraj\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"shakya\"",
+                  "offset": 23
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.user_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 657000000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "fill up all the credential and pass \"08/11/1999\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"08/11/1999\"",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDefn.PracticeSteps2.fill_up_all_the_credential_and_pass(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12912000000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "fill up other forms",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.fill_up_other_forms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5201000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user should able to go next page",
+            "match": {
+              "location": "StepDefn.PracticeSteps2.user_should_able_to_go_next_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      }
+    ],
+    "name": "User should be able to login Tutorial Site",
+    "description": "",
+    "id": "user-should-be-able-to-login-tutorial-site",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Features/Practice2.feature",
+    "tags": [
+      {
+        "name": "@sanity",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
